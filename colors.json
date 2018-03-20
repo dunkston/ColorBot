@@ -1,0 +1,22 @@
+{
+    "namedColors": [
+        {"name": "dark red", "code": "150, 0, 0"},
+        {"name": "red", "code": "250, 0, 0"},
+        {"name": "orange", "code": "250, 150, 0"},
+        {"name": "yellow", "code": "250, 250, 0"},
+        {"name": "dark green", "code": "0, 150, 0"},
+        {"name": "green", "code": "0, 250, 0"},
+        {"name": "dark blue", "code": "0, 0, 100"},
+        {"name": "blue", "code": "0, 0, 250"},
+        {"name": "light blue", "code": "50, 150, 250"},
+        {"name": "purple", "code": "150, 0, 250"},
+        {"name": "lavender", "code": "200, 100, 250"},
+        {"name": "black", "code": "0, 0, 0"},
+        {"name": "light gray", "code": "150, 150, 150"},
+        {"name": "gray", "code": "100, 100, 100"},
+        {"name": "dark gray", "code": "50, 50, 50"},
+        {"name": "white", "code": "250, 250, 250"},
+        {"name": "pink", "code": "250, 0, 150"},
+        {"name": "cyan", "code": "0, 250, 250"}
+    ]
+}
