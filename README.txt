@@ -25,9 +25,13 @@ prune: deletes the specified number of messages in a channel and can be filtered
 rainbow: after activation, every X (default 10) messages, user's color will cycle through the rainbow
 shutdown: only usable by the person hosting the bot, shuts down the bot
 suggest: allows a user to suggest something to the server, and sends it to a channel named "suggestions"
+mute: mute a user so they can't type in text channels
+unmute: unmutes a user
+reload: reloads the cache of a command so you don't need to restart the bot to apply changes
 
 Additional Information
 Will assign the role "New People" to new members, and delete it after a day
 If you want to add support for more named colors, add them to colors.json
 Welcomes a user in "general" channel on join and DMs them info
-Run the bot by typing "node ." in the bot's directory
+Run the bot by typing "node ." in the bot's directory or using run.bat
+Server logs, including information such as message edits, will be sent to a channel named "logs"
